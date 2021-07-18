@@ -1,6 +1,6 @@
 # clockapp
 
-A new Flutter project.
+A Clock app with many other functions !
 
 ## Getting Started
 
